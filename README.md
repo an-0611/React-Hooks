@@ -1,5 +1,6 @@
 # react-hooks
-
+[demo](https://an-0611.github.io/react-hooks/)<br />
+record note in console.log
 ## build environment
 1. npx create-react-app react-hooks <br/ >
 2. cd react-hooks <br/ >
