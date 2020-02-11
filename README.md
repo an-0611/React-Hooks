@@ -1,4 +1,5 @@
 # react-hooks
+!use contextApi & hook replace redux
 [demo](https://an-0611.github.io/react-hooks/)<br />
 record note in console.log
 ## build environment
